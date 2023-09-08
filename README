@@ -1,0 +1,15 @@
+1.npm init -y
+2.index.js
+3.npm i json-server
+4.json-server --watch db.json
+5."start":"node index.js"
+6.npm start
+7.git init
+8.git remote add origin https://github.com/wave2211/mock-json-server.git
+9. add commit push
+
+
+
+<!-- {
+ 
+} -->
